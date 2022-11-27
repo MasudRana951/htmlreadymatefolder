@@ -1,0 +1,27 @@
+/* root variables start here */
+:root{
+    
+}
+/* root variables end here */
+
+/* all common css start here */
+
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul, li, ol{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ a:hover{
+    text-decoration: none;
+ }
+/* all common css end her */
